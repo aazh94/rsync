@@ -6,7 +6,6 @@
 
 # Задание 2
 
-- Скрипт backup.sh:
-![Задание 2](./rsync script.png)
+![Задание 2](./rsync_script.png)
 
-![Задание 2](./rcync successfully.png)
+![Задание 2](./rcync_successfully.png)
